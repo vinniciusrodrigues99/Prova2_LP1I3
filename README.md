@@ -37,8 +37,7 @@ novos valores; <br/>
  Os demais métodos “set” devem alterar os valores das propriedades a partir dos
 parâmetros recebidos; <br/>
  O método getData() deve nos devolver a data no formato: dd/mm/aa; <br/>
- O método getHora() deve nos devolver a hora no formato: hh:mm:ss.
-
+ O método getHora() deve nos devolver a hora no formato: hh:mm:ss <br/>
 3) Para testar a classe criada siga os passos abaixo respeitando a ordem em que eles
 serão solicitados: <br/>
  Usando a classe ConsultaAgendada instancie o objeto p1 inicializado-o com o
@@ -50,7 +49,8 @@ m); <br/>
  Usando os métodos setData(), setHora(), setNomePaciente(), setNomeMedico altere
 as propriedades de p1; <br/>
  Exiba todas as propriedades de p1 novamente. <br/>
- Exiba a quantidade final de consultas. <br/>
+ Exiba a quantidade final de consultas. 
+<br/>
 4) Escreva todo o resultado obtido no exercício 3 em um arquivo texto. <br/>
 <br/>
 <div align="center">
