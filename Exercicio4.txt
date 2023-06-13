@@ -1,0 +1,29 @@
+Data: 12/06/23
+Hora: 10:30:00
+Nome do Paciente: João
+Nome do Médico: Dr. Silva
+
+Digite a data da consulta (dia/mês/ano): 05042020
+Digite a data no formato dia/mês/ano
+Digite a data da consulta (dia/mês/ano): jasjsaj
+Digite a data no formato dia/mês/ano
+Digite a data da consulta (dia/mês/ano): 05/03/1999
+Digite a hora da consulta (hh:mm:ss): 10:20:30
+Digite o nome do paciente: Vinnicius
+Digite o nome do médico: Tuller
+Data: 05/03/99
+Hora: 10:20:30
+Nome do Paciente: Vinnicius
+Nome do Médico: Tuller
+
+Deseja continuar a execucao? (S/N) s
+Digite a data da consulta (dia/mês/ano): 05/03/1999
+Digite a hora da consulta (hh:mm:ss): 10:11:12
+Digite o nome do paciente: Giselle
+Digite o nome do médico: Dr Stone
+Deseja continuar a execucao? (S/N) f
+Deseja continuar a execucao? (S/N) g
+Data: 05/03/99
+Nome do Médico: Dr Stone
+
+Quantidade de consultas: 3
